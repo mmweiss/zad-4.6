@@ -6,6 +6,7 @@
 body {
   color: #ffffff;
   font-family: 'Roboto Condensed', sans-serif;
+  margin: 0 auto;
 }
 
 header {
@@ -119,7 +120,6 @@ header .splash {
 
 /* services */
 .services {
-  max-width: 1400px;
   background-color: #ffffff;
   color: #1e272e;
   text-align: center;
@@ -142,7 +142,6 @@ header .splash {
 
 /* portfolio */
 .portfolio {
-  max-width: 1400px;
   background-color: #f7f7f7;
   color: #1e272e;
   text-align: center;
@@ -181,10 +180,9 @@ header .splash {
 
 /* Footer */
 footer {
-  max-width: 1400px;
   background: #ffffff;
   color: #1e272e;
-  margin: 0;
+  margin: 0 auto;
   text-align: center;
   padding: 45px 0;
 }
